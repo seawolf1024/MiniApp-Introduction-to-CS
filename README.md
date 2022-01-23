@@ -5,7 +5,9 @@ Homework of 'Introduction to CS'
 
 Search '计科导论' on WeChat to view it.
 
-![image](https://github.com/zzs-RedCocoon/Introduction-to-CS/blob/main/search_on_WeChat.png)
+<img src="https://github.com/zzs-RedCocoon/Introduction-to-CS/blob/main/search_on_WeChat.png" width="400px">
+
+
 
 Complete the 3 main pages of the tabBar.
 
@@ -19,7 +21,9 @@ Complete the 3 main pages of the tabBar.
 
 **View on mobile phone：**
 
-![image](https://github.com/zzs-RedCocoon/Introduction-to-CS/blob/main/sketch.png)
+<img src="https://github.com/zzs-RedCocoon/Introduction-to-CS/blob/main/sketch.png" width="400px">
+
+
 
 
 
