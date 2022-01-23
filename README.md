@@ -5,7 +5,7 @@ Homework of 'Introduction to CS'
 
 Search '计科导论' on WeChat to view it.
 
-<img src="C:\Users\赤之茧\AppData\Roaming\Typora\typora-user-images\image-20220123222319965.png" alt="image-20220123222319965" style="zoom: 33%;" />
+![image](https://github.com/zzs-RedCocoon/Introduction-to-CS/blob/main/search_on_WeChat.png)
 
 Complete the 3 main pages of the tabBar.
 
@@ -19,6 +19,7 @@ Complete the 3 main pages of the tabBar.
 
 **View on mobile phone：**
 
-<img src="C:\Users\赤之茧\AppData\Roaming\Typora\typora-user-images\image-20220124014437936.png" alt="image-20220124014437936" style="zoom: 25%;" />
+![image](https://github.com/zzs-RedCocoon/Introduction-to-CS/blob/main/sketch.png)
+
 
 
