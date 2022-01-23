@@ -1,0 +1,17 @@
+<!--pages/lesson1/lesson1.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+计算机科学（computer science）是系统性研究信息与计算的理论基础以及它们在计算机系统中如何实现与应用的实用技术的学科。它通常被形容为对那些创造、描述以及转换信息的算法处理的系统研究。</view>
+<view class="info">
+  计算机科学包含很多分支领域；有些强调特定结果的计算，比如计算机图形学；而有些是探讨计算问题的性质，比如计算复杂性理论；还有一些领域专注于怎样实现计算，比如编程语言理论是研究描述计算的方法，而程序设计是应用特定的编程语言解决特定的计算问题，人机交互则是专注于怎样使计算机和计算变得有用、好用，以及随时随地为人所用。
+</view>
+<view class="infotitle">研究领域</view>
+<view class="info">
+计算机是一种进行算术和逻辑运算的机器，而且对于由若干台计算机联成的系统而言还有通信问题,并且处理的对象都是信息,因而也可以说，计算机科学是研究信息处理的科学。计算机科学分为理论计算机科学和实验计算机科学两个部分。在数学文献中所说的计算机科学，一般是指理论计算机科学。实验计算机科学还包括有关开辟计算机新的应用领域的研究。 </view>
+<view class="info">
+具体的研究领域有：计算理论、程序设计理论、计算机体系结构、计算机网络、分布式系统、数据库和信息检索、人工智能、计算机图形与视觉、软件工程等。</view>
+<view class="infotitle">计算机技术十大演变趋势及计算思维</view>
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson1.JPG" mode="widthFix" bindtap="gotoRelationship"></image>
+</view>
+<button bindtap="openExcel">点击下载</button>

@@ -1,0 +1,81 @@
+<!--pages/lesson9/lesson9.wxml-->
+<!--懒得写成数组，今天很懒惰-->
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_1.JPG"></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">软件工程</text>
+    <text>简介：课程内容包括软件过程、软件需求、结构化分析和设计方法、面向对象分析和设计方法、软件测试、软件项目管理等。</text>
+  </view>
+</view>
+
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_2.JPG" ></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">计算机图形学</text>
+    <text>简介：课程内容包括图形理论体系、可编程渲染管线、图形编程技能（C++，OpenGL，GLSL）等。</text>
+  </view>
+</view>
+
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_3.JPG"></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">嵌入式软件设计</text>
+    <text>简介：本课程的主要任务是全面介绍基于ARM/嵌入式Linux操作系统的GNU C语言程序设计思想、方法，以及基于STM32处理器和Proteus的嵌入式仿真技术。</text>
+  </view>
+</view>
+
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_4.JPG"></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">人工智能</text>
+    <text>简介：通过本课程的学习，可以掌握知识表示、确定性和不确定性推理、搜索、进化计算、群智能、人工神经网络、专家系统、机器学习等基本理论与实用方法。</text>
+  </view>
+</view>
+
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_5.JPG"></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">软件定义网络</text>
+    <text>简介：本课程视频主要内容包括：SDN概述、基本原理、南向接口协议、数据平面、控制平面、北向接口和SDN应用开发等内容。</text>
+  </view>
+</view>
+
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_6.JPG"></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">网络安全</text>
+    <text>简介：网络安全的相关基础知识和相关内容、对称密码、公钥密码、安全协议、操作系统安全、防火墙、入侵检测、病毒原理与防范等。</text>
+  </view>
+</view>
+
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_7.JPG"></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">自然语言处理</text>
+    <text>简介：课程内容包括软件过程、软件需求、结构化分析和设计方法、面向对象分析和设计方法、软件测试、软件项目管理等。</text>
+  </view>
+</view>
+
+<view class="lesson-item">
+  <view class="thumb">
+    <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson9_8.JPG"></image>
+  </view>
+  <view class="info">
+    <text class="lesson-title">未完待续</text>
+    <text>更多课程加入中...</text>
+  </view>
+</view>

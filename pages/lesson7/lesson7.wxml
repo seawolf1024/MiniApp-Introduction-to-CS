@@ -1,0 +1,23 @@
+<!--pages/lesson7/lesson7.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+数据库系统是为适应数据处理的需要而发展起来的一种较为理想的数据处理系统，也是一个为实际可运行的存储、维护和应用系统提供数据的软件系统，是存储介质 、处理对象和管理系统的集合体。</view>
+<view class="info">
+本科生数据库系统的学习主要学习数据库概念、关系数据理论、数据库管理系统、数据库设计、数据库开发等内容。</view>
+
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson7.png" mode="widthFix"></image>
+</view>
+
+<view class="infotitle">数据库学习经验</view>
+<view class="info">注：微信小程序不支持外部链接，请手动复制后在浏览器打开</view>
+<view class="info"><text selectable>计算机系为什么要学数据库原理和设计？https://www.zhihu.com/question/273489729/answer/382181550</text></view>
+
+<view class="infotitle">数据库课程推荐</view>
+<view class="info">
+  <text selectable>UCD：SQL for Data Sciencehttps://www.coursera.org/learn/sql-for-data-science</text>
+  <text selectable>Duke University 从 Excel 到 MySQL:https://www.coursera.org/specializations/excel-mysql</text>
+  <text selectable>哈尔滨工业大学：数据库系统https://www.bilibili.com/video/BV1pp4y187qJ?from=search&seid=4216246874570998575&spm_id_from=333.337.0.0</text>
+</view>
+<view class="info">
+</view>

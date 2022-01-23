@@ -1,0 +1,73 @@
+<!--pages/lesson2/lesson2.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+数据结构是计算机存储、组织数据的方式。数据结构是指相互之间存在一种或多种特定关系的数据元素的集合。通常情况下，精心选择的数据结构可以带来更高的运行或者存储效率。数据结构往往同高效的检索算法和索引技术有关。</view>
+
+<view class="infotitle">线性表</view>
+<view class="info">
+线性表是最基本、最简单、也是最常用的一种数据结构。线性表（linear list）是数据结构的一种，一个线性表是n个具有相同特性的数据元素的有限序列。 </view>
+<view class="info">
+线性表中数据元素之间的关系是一对一的关系，即除了第一个和最后一个数据元素之外，其它数据元素都是首尾相接的。
+</view>
+
+<view class="infotitle">栈与队列</view>
+<view class="info">
+栈是一种特殊的线性表，它只能在一个表的一个固定端进行数据结点的插入和删除操作。栈按照后进先出的原则来存储数据，也就是说，先插入的数据将被压入栈底，最后插入的数据在栈顶，读出数据时，从栈顶开始逐个读出。栈在汇编语言程序中，经常用于重要数据的现场保护。
+</view>
+<view class="info">
+队列和栈类似，也是一种特殊的线性表。和栈不同的是，队列只允许在表的一端进行插入操作，而在另一端进行删除操作。一般来说，进行插入操作的一端称为队尾，进行删除操作的一端称为队头。队列中没有元素时，称为空队列。 
+</view>
+
+<view class="infotitle">树</view>
+<view class="info">
+树是典型的非线性结构，它是包括，2个结点的有穷集合K。在树结构中，有且仅有一个根结点，该结点没有前驱结点。在树结构中的其他结点都有且仅有一个前驱结点，而且可以有两个后继结点，m≥0。</view>
+
+<view class="infotitle">图</view>
+<view class="info">
+图是另一种非线性数据结构。在图结构中，数据结点一般称为顶点，而边是顶点的有序偶对。如果两个顶点之间存在一条边，那么就表示这两个顶点具有相邻关系。</view>
+
+<view class="infotitle">数据结构网课推荐</view>
+<view class="info">
+  <text selectable>注：微信小程序不支持外部链接，请手动复制后在浏览器打开</text>
+  <text selectable>浙江大学：https://www.bilibili.com/video/BV1JW411i731?from=search&seid=10990947381359593603&spm_id_from=333.337.0.0</text>
+  <text selectable>王道计算机考研：https://www.bilibili.com/video/BV1b7411N798?from=search&seid=1395187153631052061&spm_id_from=333.337.0.0</text>
+</view>
+
+
+<view class="infotitle">西安交通大学数据结构PPT下载</view>
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson2_1.JPG" mode="widthFix" bindtap="gotoRelationship"></image>
+</view>
+<button bindtap="openExcel">点击下载</button>
+
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson2_2.JPG" mode="widthFix" bindtap="gotoRelationship"></image>
+</view>
+<button bindtap="openExcel2">点击下载</button>
+
+
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson2_3.JPG" mode="widthFix" bindtap="gotoRelationship"></image>
+</view>
+<button bindtap="openExcel3">点击下载</button>
+
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson2_4.JPG" mode="widthFix" bindtap="gotoRelationship"></image>
+</view>
+<button bindtap="openExcel4">点击下载</button>
+
+<view class="info">
+  <text>   </text>
+</view>
+<view class="info">
+  <text>   </text>
+</view>
+<view class="info">
+  <text>   </text>
+</view>
+<view class="info">
+  <text>   </text>
+</view>
+
+<view class="infotitle">数据结构实验工程文件下载</view>
+<button bindtap="openExcel5">点击下载</button>

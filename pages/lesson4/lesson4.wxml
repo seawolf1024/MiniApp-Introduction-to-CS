@@ -1,0 +1,17 @@
+<!--pages/lesson4/lesson4.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+计算机组成指的是系统结构的逻辑实现，包括机器机内的数据流和控制流的组成及逻辑设计等。主要分为五个部分：控制器，运算器，存储器，输入设备，输出设备。。</view>
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson4.JPG" mode="widthFix"></image>
+</view>
+
+<view class="infotitle">计组学习经验</view>
+<view class="info">注：微信小程序不支持外部链接，请手动复制后在浏览器打开</view>
+<view class="info"><text selectable>如何学计算机组成原理与计算机体系结构？https://www.zhihu.com/question/294112496/answer/1956844872</text></view>
+
+<view class="infotitle">计算机组成课程推荐</view>
+<view class="info">
+  <text selectable>王道考研：计算机组成https://www.bilibili.com/video/BV1BE411D7ii?from=search&seid=9446761417498890761&spm_id_from=333.337.0.0</text>
+  <text selectable>哈尔滨工业大学MOOC：计算机组成原理https://www.bilibili.com/video/BV1t4411e7LH?from=search&seid=13628926794698329845&spm_id_from=333.337.0.0</text>
+</view>

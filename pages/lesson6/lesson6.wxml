@@ -1,0 +1,23 @@
+<!--pages/lesson6/lesson6.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+操作系统（operating system，简称OS）是管理计算机硬件与软件资源的计算机程序。操作系统需要处理如管理与配置内存、决定系统资源供需的优先次序、控制输入设备与输出设备、操作网络与管理文件系统等基本事务。操作系统也提供一个让用户与系统交互的操作界面。</view>
+<view class="info">
+本科生操作系统的学习主要学习进程管理、处理机调度、内存管理、文件管理、I/O管理等。</view>
+<view class="infotitle">An introduction to Operating System</view>
+<view class="info">经典的操作系统导论PPT。</view>
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson6.JPG" mode="widthFix" bindtap="gotoRelationship"></image>
+</view>
+<button bindtap="openExcel">点击下载</button>
+
+<view class="infotitle">操作系统学习经验</view>
+<view class="info">注：微信小程序不支持外部链接，请手动复制后在浏览器打开</view>
+<view class="info"><text selectable>怎样深入学习操作系统？https://www.zhihu.com/question/27567302/answer/2290877796</text></view>
+
+<view class="infotitle">操作系统课程推荐</view>
+<view class="info">
+  <text selectable>MIT 6.S081 operating system engineeringhttps://www.bilibili.com/video/BV1Dy4y1m7ZE?from=search&seid=453076811189829199&spm_id_from=333.337.0.0</text>
+  <text selectable>UCB CS162 Operating System and Systems Programming https://www.bilibili.com/video/BV1ix411676b?from=search&seid=453076811189829199&spm_id_from=333.337.0.0</text>
+  <text selectable>王道考研：操作系统https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=3671273878883175904&spm_id_from=333.337.0.0</text>
+</view>

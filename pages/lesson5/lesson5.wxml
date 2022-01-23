@@ -1,0 +1,20 @@
+<!--pages/lesson5/lesson5.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+计算机网络是指将地理位置不同的具有独立功能的多台计算机及其外部设备，通过通信线路连接起来，在网络操作系统，网络管理软件及网络通信协议的管理和协调下，实现资源共享和信息传递的计算机系统。</view>
+<view class="info">
+本科生计算机网络的学习主要学习5层网络模型，即物理层、数据链路层、网络层、传输层、应用层，如图所示：</view>
+<view class="infoimage">
+  <image src="cloud://redcocoon-9gcuvsrfa0c0640d.7265-redcocoon-9gcuvsrfa0c0640d-1309173723/lesson5.jpg" mode="widthFix"></image>
+</view>
+
+<view class="infotitle">计算机网络学习经验</view>
+<view class="info">注：微信小程序不支持外部链接，请手动复制后在浏览器打开</view>
+<view class="info"><text selectable>如何自学并且系统学习计算机网络?https://www.zhihu.com/question/22354846/answer/2168173338</text></view>
+
+<view class="infotitle">计算机网络课程推荐</view>
+<view class="info">
+  <text selectable>王道考研：计算机网络https://www.bilibili.com/video/BV19E411D78Q?from=search&seid=8944775980998708157&spm_id_from=333.337.0.0</text>
+  <text selectable>哈尔滨工业大学MOOC：计算机网络https://www.bilibili.com/video/BV1Up411Z7hC?from=search&seid=8944775980998708157&spm_id_from=333.337.0.0</text>
+  <text selectable>coursera：University of Washington, Computer Networks：https://www.bilibili.com/video/av51277907/</text>
+</view>

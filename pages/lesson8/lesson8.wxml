@@ -1,0 +1,16 @@
+<!--pages/lesson8/lesson8.wxml-->
+<!--pages/lesson6/lesson6.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+Web开发主要是建立在B/S架构模式下，衍生出来的一系列web应用程序，即主要是基于浏览器的应用程序开发，这也是web应用程序开发的基础，比如淘宝、京东、当当网等。Web开发在近年来，随着本身技术的突破以及移动设备的普及，基于web领域的开发，也出现了明确的岗位职责分工，一个web互联网产品中，基本上会分为web UI设计、Web前端开发以及web后端开发。</view>
+<view class="info">
+Web开发一般是计算机专业本科生的选修课。</view>
+
+<view class="infotitle">Web开发课程推荐</view>
+<view class="info">
+  <text selectable>网页编程设计web开发技术与HTML、CSS与JavaScripthttps://www.bilibili.com/video/BV1X54y137iB?from=search&seid=11191711672634442530&spm_id_from=333.337.0.0</text>
+  <text selectable>前端学习路线https://www.bilibili.com/read/cv5650633?from=search&spm_id_from=333.337.0.0</text>
+  <text selectable>后端学习路线https://www.bilibili.com/read/cv11081227?from=search&spm_id_from=333.337.0.0</text>
+</view>
+<view class="info">
+</view>

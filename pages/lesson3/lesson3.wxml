@@ -1,0 +1,46 @@
+<!--pages/lesson3/lesson3.wxml-->
+<view class="infotitle">简介</view>
+<view class="info">
+在算法分析与设计这门课中，主要学习分治法、动态规划法、贪心法、回溯法、分支限界法、概率算法和近似算法等算法没计技术。</view>
+
+<view class="infotitle">分治法</view>
+<view class="info">
+分治算法的基本思想是将一个规模为N的问题分解为K个规模较小的子问题，这些子问题相互独立且与原问题性质相同。求出子问题的解，就可得到原问题的解。即一种分目标完成程序算法，简单问题可用二分法完成。</view>
+
+<view class="infotitle">动态规划</view>
+<view class="info">
+与分治法不同的是，适合于用动态规划求解的问题，经分解得到子问题往往不是互相独立的。若用分治法来解这类问题，则分解得到的子问题数目太多，有些子问题被重复计算了很多次。如果我们能够保存已解决的子问题的答案，而在需要时再找出已求得的答案，这样就可以避免大量的重复计算，节省时间。</view>
+<view class="info">我们可以用一个表来记录所有已解的子问题的答案。不管该子问题以后是否被用到，只要它被计算过，就将其结果填入表中。这就是动态规划法的基本思路。
+</view>
+
+<view class="infotitle">贪心算法</view>
+<view class="info">
+  贪心算法的特点是一步一步地进行，常以当前情况为基础根据某个优化测度作最优选择，而不考虑各种可能的整体情况，省去了为找最优解要穷尽所有可能而必须耗费的大量时间。</view>
+<view class="info">贪心算法采用自顶向下，以迭代的方法做出相继的贪心选择，每做一次贪心选择，就将所求问题简化为一个规模更小的子问题，通过每一步贪心选择，可得到问题的一个最优解。</view>
+
+<view class="infotitle">概率算法</view>
+<view class="info">
+概率算法也叫随机化算法。概率算法允许算法在执行过程中随机地选择下一个计算步骤。在很多情况下，算法在执行过程中面临选择时，随机性选择比最优选择省时，因此概率算法可以在很大程度上降低算法的复杂度。</view>
+<view class="info">
+概率算法的一个基本特征是对所求解问题的同一实例用同一概率算法求解两次可能得到完全不同的效果。这两次求解问题所需的时间甚至所得到的结果可能会有相当大的差别 [1]  。</view>
+
+<view class="infotitle">算法学习经验</view>
+<view class="info">注：微信小程序不支持外部链接，请手动复制后在浏览器打开</view>
+<view class="info"><text selectable>https://www.zhihu.com/question/31677748</text></view>
+
+<view class="infotitle">算法课程推荐</view>
+<view class="info">
+
+  <text selectable>北大公开课：算法分析与设计https://www.bilibili.com/video/BV1Ls411W7PB?from=search&seid=2980628786266919266&spm_id_from=333.337.0.0</text>
+  <text selectable>MIT算法导论：https://www.bilibili.com/video/BV1Tb411M7FA?from=search&seid=8919881287038274181&spm_id_from=333.337.0.0</text>
+  <text selectable>Acwing算法网课：https://www.acwing.com/activity/content/11/</text>
+</view>
+<view class="infotitle">算法刷题网站推荐</view>
+<view class="info">
+
+  <text selectable>C语言网：https://www.dotcpp.com/</text>
+  <text selectable>洛谷：https://www.luogu.com.cn/</text>
+  <text selectable>Acwing算法课：https://www.acwing.com/</text>
+  <text selectable>Leetcode：https://leetcode-cn.com/</text>
+</view>
+

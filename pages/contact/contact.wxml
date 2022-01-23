@@ -1,0 +1,9 @@
+<!--pages/contact/contact.wxml-->
+
+<view class="nichijou">
+<image src="/images/contact_nichijou.png" mode="widthFix"></image></view>
+
+<view class="infotitle">联系我们</view>
+<view class="info">西安交通大学</view>
+<view class="info">计算机93 张占山</view>
+<view class="info">学号：2193211080</view>

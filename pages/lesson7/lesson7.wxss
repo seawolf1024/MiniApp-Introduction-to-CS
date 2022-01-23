@@ -1,0 +1,32 @@
+/* pages/lesson7/lesson7.wxss */
+
+.info{
+
+  text-indent:2em;
+  text-indent: 50rpx;
+  text-align: left;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size:27rpx;
+  padding: 20rpx;
+
+}
+.infotitle{
+  font-weight: bold;
+  margin-left: 20rpx;
+  margin-top: 30rpx;
+  margin-bottom: 2rpx;
+}
+
+.infoimage{
+width:250rpx;
+height:250rpx;
+display: block;
+margin-left:30rpx;
+margin-top:20rpx;
+margin-bottom:300rpx;
+border: 1rpx solid #efefef;
+border-radius: 8rpx;
+box-shadow: 1rpx 1rpx 15rpx #ddd;
+}
